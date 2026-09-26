@@ -1,0 +1,10 @@
+abandon 12
+ability 13
+access 25
+vocabulary 126
+psychology 208
+analysis 214
+application 220
+confidence 231
+education 245
+language 260
